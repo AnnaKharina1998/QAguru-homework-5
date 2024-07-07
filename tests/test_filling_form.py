@@ -6,9 +6,9 @@ def test_correct_filling():
     # заполнение данных
 
     browser.open("/automation-practice-form")
-    first_name = 'Anna'
-    last_name = 'Krasnokutskaia'
-    email = 'anna.kharina.1998@mail.ru'
+    first_name = 'Vasya'
+    last_name = 'Pupkin'
+    email = 'some_email@mail.ru'
     gender = 'Female'
     mobile = '9099777874'
     birthday = '13 January,1998'
